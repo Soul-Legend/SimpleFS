@@ -149,3 +149,8 @@ The graphical interface provides a visual workflow for all file system operation
 3.  **Content View:** Once mounted, the main screen displays the superblock information and a scrollable list of all active inodes.
 4.  **Inode Management:** From this screen, you can create new inodes or click on an existing one to view its detailed information.
 5.  **Inode Detail Screen:** This view shows the inode's metadata (`debug` output) and its full content (`cat` output). From here, you can `Delete` the inode or perform `CopyIn` and `CopyOut` operations using file dialogs.
+
+## ✒️ Authors
+* ##### [Vitor Praxedes Calegari](https://github.com/Vitor-Calegari)
+* ##### [Matheus Fernandes Bigolin](https://github.com/mfrdbigolin)
+* ##### [Pedro Henrique Taglialenha](https://github.com/Soul-Legend)
